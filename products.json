@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Название 1",
+        "price": 4000,
+        "image": { "fields": { "file": { "url": "./img/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Название 2",
+        "price": 5500,
+        "image": { "fields": { "file": { "url": "./img/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Название 3",
+        "price": 4800,
+        "image": { "fields": { "file": { "url": "./img/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Название 4",
+        "price": 5000,
+        "image": { "fields": { "file": { "url": "./img/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Название 5",
+        "price": 6500,
+        "image": { "fields": { "file": { "url": "./img/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Название 6",
+        "price": 5800,
+        "image": { "fields": { "file": { "url": "./img/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Название 7",
+        "price": 6100,
+        "image": { "fields": { "file": { "url": "./img/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Название 8",
+        "price": 7000,
+        "image": { "fields": { "file": { "url": "./img/product-8.jpeg" } } }
+      }
+    }
+  ]
+}
